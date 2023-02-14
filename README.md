@@ -1,6 +1,6 @@
 # DNS_Scanner
 
-<h1>DNS_Scanner para utilizar em testes de invasão na etapa de reconhecimento do alvo.<h1>
+DNS_Scanner para utilizar em testes de invasão na etapa de reconhecimento do alvo.
 
 Instruções:
 Abrir o terminal e digitar o nome do script brute_force-DNS.sh + o nome do alvo (alvo.com.br).
